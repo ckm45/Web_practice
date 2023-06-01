@@ -16,7 +16,11 @@
 <loc>http://localhost:4000/signup.html</loc>
 </url>
 <url>
+<loc>http://localhost:4000/pagination.html</loc>
+<lastmod>2023-06-01T01:18:49+09:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/practice.html</loc>
-<lastmod>2023-05-27T11:30:56+09:00</lastmod>
+<lastmod>2023-06-01T01:11:52+09:00</lastmod>
 </url>
 </urlset>
